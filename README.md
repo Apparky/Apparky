@@ -13,6 +13,38 @@
 > Once you are getting helped from the [__Apparky__](https://apparky.vercel.app/) development, we are requesting a donation which is not __mandatory__ but __helpful__ user those who are willing can donate as a __sign__ of __bonding__.
 > 
 > 
+> 
+
+## Language
+> 
+> - Python
+> - Java
+> - Java Script
+> - CSS
+> - HTML
+> - SQL
+> - No SQL
+>
+> 
+
+## Demain
+>
+> - Django - Python
+> - Flask - Python
+> - PyQt5 - Python
+> - OpenCV - Python
+> - React JS
+> - Next JS
+> - Node JS
+> - Tailwind CSS
+> - SQLite3
+> - Postgre SQL
+> - Supabase
+> - Mondo DB
+> 
+> 
+> 
+ 
 
 ## Get In Touch
 
