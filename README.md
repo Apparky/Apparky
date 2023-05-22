@@ -16,14 +16,14 @@
 
 ## Get In Touch
 
-> - [GitHub](https://github.com/Apparky)
-> - [Bitbucket](https://bitbucket.org/apparky-web/)
-> - [Facebook](https://www.facebook.com/Apparky.Web/)
-> - [Twitter](https://twitter.com/Apparky_Tech)
-> - [Instagram](https://www.instagram.com/apparky.web/)
-> - [Discord](https://discord.gg/2YSbJNZT)
-> - [Linkedin](https://www.linkedin.com/in/apparky-web-6762a3263/)
-> - [Mastodon](https://mastodon.social/@apparky)
+> - [__GitHub__](https://github.com/Apparky)
+> - [__Bitbucket__](https://bitbucket.org/apparky-web/)
+> - [__Facebook__](https://www.facebook.com/Apparky.Web/)
+> - [__Twitter__](https://twitter.com/Apparky_Tech)
+> - [__Instagram__](https://www.instagram.com/apparky.web/)
+> - [__Discord__](https://discord.gg/2YSbJNZT)
+> - [__Linkedin__](https://www.linkedin.com/in/apparky-web-6762a3263/)
+> - [__Mastodon__](https://mastodon.social/@apparky)
 > 
 > 
 > 
@@ -32,5 +32,5 @@
 
 
 
-### Our email ID - apparky@protonmail.com
+### Our __email ID__ - apparky@protonmail.com
 ### You can also visite our site at [__apparky.vercel.app__](https://apparky.vercel.app/) or Click at [Here](https://apparky.vercel.app/)
