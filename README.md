@@ -20,7 +20,7 @@
 > - [__Bitbucket__](https://bitbucket.org/apparky-web/)
 > - [__Facebook__](https://www.facebook.com/Apparky.Web/)
 > - [__Twitter__](https://twitter.com/Apparky_Tech)
-> - [__Instagram__](https://www.instagram.com/apparky.web/)
+> - ~~[__Instagram__](https://www.instagram.com/apparky.web/)~~
 > - [__Discord__](https://discord.gg/2YSbJNZT)
 > - [__Linkedin__](https://www.linkedin.com/in/apparky-web-6762a3263/)
 > - [__Mastodon__](https://mastodon.social/@apparky)
