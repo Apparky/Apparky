@@ -19,6 +19,7 @@
 > 
 > - Python
 > - Java
+> - Type Script
 > - Java Script
 > - CSS
 > - HTML
