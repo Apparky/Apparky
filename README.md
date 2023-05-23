@@ -67,4 +67,4 @@
 
 
 ### Our email ID - apparky@protonmail.com
-### You can also visite our site at [__apparky.vercel.app__](https://apparky.vercel.app/) or Click at [Here](https://apparky.vercel.app/)
+### You can also visit our site at [__apparky.vercel.app__](https://apparky.vercel.app/) or Click [Here](https://apparky.vercel.app/)
