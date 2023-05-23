@@ -17,14 +17,14 @@
 
 ### Language
 > 
-> - Python
-> - Java
-> - Type Script
-> - Java Script
-> - CSS
-> - HTML
-> - SQL
-> - No SQL
+> - __Python__
+> - __Java__
+> - __Type Script__
+> - __Java Script__
+> - __CSS__
+> - __HTML__
+> - __SQL__
+> - __No SQL__
 >
 > 
 
