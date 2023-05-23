@@ -15,7 +15,7 @@
 > 
 > 
 
-## Language
+### Language
 > 
 > - Python
 > - Java
@@ -28,7 +28,7 @@
 >
 > 
 
-## Demain
+### Demain
 >
 > - Django - Python
 > - Flask - Python
@@ -48,7 +48,7 @@
 > 
  
 
-## Get In Touch
+### Get In Touch
 
 > - [__GitHub__](https://github.com/Apparky)
 > - [__Bitbucket__](https://bitbucket.org/apparky-web/)
