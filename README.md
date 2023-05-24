@@ -1,16 +1,16 @@
 # APPARKY
 
-> [__APPARKY__](https://apparky.vercel.app/) is an __`Open Source`__ community platform where you can learn how to work with latest `Web` based technology for __`Web Development`__ and `Coding` for free.
+> [__APPARKY__](https://apparky.vercel.app/) is an `Open Source` community platform where you can learn how to work with latest `Web` based technology for `Web Development` and `Coding` for free.
 > 
 > We have many basic `projects` of python’s latest modules and advanced projects as well.
-> We also have __`Web Development`__ projects using the latest __`Technology`__. Users can take the help of code in building their platform for free. 
+> We also have `Web Development` projects using the latest `Technology`. Users can take the help of code in building their platform for free. 
 > 
 > 
-> As an aware to the users of our [__GitHub__](https://github.com/Apparky) repository, it is an __`Open Source`__ platform so herein any user having problem with their project coding related issues are thereby solved free of services. 
+> As an aware to the users of our [GitHub](https://github.com/Apparky) repository, it is an `Open Source` platform so herein any user having problem with their project coding related issues are thereby solved free of services. 
 > 
 > 
 > 
-> Once you are getting helped from the [__Apparky__](https://apparky.vercel.app/) development, we are requesting a donation which is not __mandatory__ but __helpful__ user those who are willing can donate as a __sign__ of __bonding__.
+> Once you are getting helped from the [Apparky](https://apparky.vercel.app/) development, we are requesting a donation which is not mandatory but helpful user those who are willing can donate as a sign of bonding.
 > 
 > 
 > 
