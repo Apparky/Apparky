@@ -30,19 +30,19 @@
 
 ### Domain
 >
-> - Django - Python
-> - Flask - Python
-> - PyQt5 - Python
-> - OpenCV - Python
-> - Matplotlib - Python
-> - React JS
-> - Next JS
-> - Node JS
-> - Tailwind CSS
-> - SQLite3
-> - Postgre SQL
-> - Supabase
-> - Mondo DB
+> - **Django - Python**
+> - **Flask - Python**
+> - **PyQt5 - Python**
+> - **OpenCV - Python**
+> - **Matplotlib - Python**
+> - **React JS**
+> - **Next JS**
+> - **Node JS**
+> - **Tailwind CSS**
+> - **SQLite3**
+> - **Postgre SQL**
+> - **Supabase**
+> - **Mondo DB**
 > 
 > 
 > 
