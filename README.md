@@ -90,7 +90,7 @@
 </details>
 
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/Apparky">
     <img src="https://komarev.com/ghpvc/?username=Apparky&color=blue&style=flat)" />
   </a>
 </p>
