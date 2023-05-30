@@ -87,7 +87,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apparky&langs_count=20&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=pie&card_width=699&hide_border=true&theme=highcontrast" />
   </a>
     <a href="https://github.com/Apparky">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apparky&langs_count=20&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=normal&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apparky&langs_count=20&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=normal&card_width=699&hide_border=true&theme=radical" />
   </a>
 
 
