@@ -72,7 +72,7 @@
 #### You can also visit our site at [__apparky.vercel.app__](https://apparky.vercel.app/) or Click [Here](https://apparky.vercel.app/)
 
 
-<details>
+
 <p align="center">
   <a href="https://github.com/Apparky">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apparky&theme=dracula" />
@@ -92,7 +92,7 @@
 
 
 </p>
-</details>
+
 
 <p align="center">
   <a href="https://github.com/Apparky">
