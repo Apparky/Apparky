@@ -46,10 +46,7 @@
 > - **Supabase**
 > - **Mondo DB**
 > 
-> 
-> 
-> 
- 
+
 
 ### Get In Touch
 
@@ -62,11 +59,6 @@
 > - [__Linkedin__](https://www.linkedin.com/in/apparky)
 > - [__Mastodon__](https://mastodon.social/@apparky)
 > 
-> 
-> 
-> 
-> 
-
 
 
 #### Our email ID - apparky@protonmail.com
