@@ -35,7 +35,7 @@
 > - **Django - Python**
 > - **Flask - Python**
 > - **Fast API - Python**
-> - **Rest API - Python**
+> - **Rest API - Python (Rest Framework)**
 > - **PyQt5 - Python**
 > - **OpenCV - Python**
 > - **Matplotlib - Python**
