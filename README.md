@@ -44,7 +44,7 @@
 > - **SQLite3**
 > - **Postgre SQL**
 > - **Supabase**
-> - **Mondo DB**
+> - **Mongo DB**
 > 
 
 
