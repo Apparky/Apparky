@@ -47,6 +47,7 @@
 > - **Postgre SQL**
 > - **Supabase**
 > - **Mongo DB**
+> - **Astra DB**
 > 
 
 
